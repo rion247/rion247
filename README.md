@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rion247&label=Profile%20views&color=0e75b6&style=flat" alt="rion247" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rion247" alt="rion247" /></a> </p>
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="codeing gif" align="right" />
+<img width="400px" height="400px" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="codeing gif" align="right" />
 - 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT JS, NODE EXPRESS, MONGODB**
