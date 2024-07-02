@@ -1,24 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vivian Rion Marandi</h1>
 <h3 align="center">Passionate Web Developer | React & Node.js Enthusiast | Lifelong Learner</h3>
 
-<div>
-
-<p>
-    Hello! I’m Vivian, your go-to expert for crafting highly engaging web interfaces and scalable applications that stand out in today’s fast-paced digital era. 🌟💻
-  </p>
   <p>
     Behind every successful project is a collection of powerful tools, My technical expertise spans from advanced package management with Node Package Manager to crafting dynamic storage solutions using MongoDB and Firebase. Moreover, I take pride in designing aesthetically appealing and responsive websites, courtesy of front-end frameworks like DaisyUI and Tailwind CSS. Whether it's a sleek corporate website or a creative personal project, my focus is always on pushing the envelope in design and functionality.
   </p>
   
-</div>
-
-  
-
-
-
-<div>
   <img width="500px" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="codeing gif" align="right" />
-</div>
+
   
 </div>
 
