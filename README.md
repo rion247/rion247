@@ -11,11 +11,6 @@ Hello! I’m Vivian, your go-to expert for crafting highly engaging web interfac
 
 Behind every successful project is a collection of powerful tools, My technical expertise spans from advanced package management with Node Package Manager to crafting dynamic storage solutions using MongoDB and Firebase. Moreover, I take pride in designing aesthetically appealing and responsive websites, courtesy of front-end frameworks like DaisyUI and Tailwind CSS. Whether it's a sleek corporate website or a creative personal project, my focus is always on pushing the envelope in design and functionality.
 
-Teams are the backbone of any project, and I thrive when collaborating. Each project in my portfolio highlights a journey from conceptualization to a visually and functionally robust web application. These ventures into the digital space consistently reflect my commitment to quality and my relentless drive to improve and adapt to the evolving tech landscape.
-
-Innovation is at the heart of all I do. I am constantly updating my skills and tools to stay ahead of industry trends—ensuring that every project isn't just current but leading edge. My work ethic revolves around meticulous attention to detail and an unwavering commitment to delivering superior results.
-
-I take great delight in turning ideas into reality, transforming complex challenges into user-friendly solutions. If you’re on the lookout for someone who can translate your needs into impactful digital experiences, let’s connect and explore the digital possibilities together!
 - 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT JS, NODE EXPRESS, MONGODB**
