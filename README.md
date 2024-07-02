@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Web Developer | React & Node.js Enthusiast | Lifelong Learner</h3>
 
 
-  <img width="500px" src="https://i.ibb.co/ssGb6Xk/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.jpg" alt="Banner" align="right" />
+  <img src="https://i.ibb.co/ssGb6Xk/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.jpg" alt="Banner" />
 
   <p align="justify">
     Behind every successful project is a collection of powerful tools, My technical expertise spans from advanced package management with Node Package Manager to crafting dynamic storage solutions using MongoDB and Firebase. Moreover, I take pride in designing aesthetically appealing and responsive websites, courtesy of front-end frameworks like DaisyUI and Tailwind CSS. Whether it's a sleek corporate website or a creative personal project, my focus is always on pushing the envelope in design and functionality.
