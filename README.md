@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivian Rion Marandi</h1>
 <h3 align="center">Passionate Web Developer | React & Node.js Enthusiast | Lifelong Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rion247&label=Profile%20views&color=0e75b6&style=flat" alt="rion247" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rion247" alt="rion247" /></a> </p>
-
-<div class="flex">
-
 <div>
   <h1>Welcome to Vivian's World of Web Development</h1>
   <p>
