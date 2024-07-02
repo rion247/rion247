@@ -21,9 +21,6 @@
   <a href="https://fb.com/vivianrion.marandi.3" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="vivianrion.marandi.3" width="100" /></a>
   <a href="https://linkedin.com/in/vivianrion" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="vivianrion" width="100"></a>
 </p>
-
-""
-
 <br><br>
 
 <br>
