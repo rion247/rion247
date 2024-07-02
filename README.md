@@ -5,10 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rion247" alt="rion247" /></a> </p>
 
-
-<div>
-  <img width="500px" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="codeing gif" align="right" />
-</div>
+<div class="flex">
 
 <div>
   <h1>Welcome to Vivian's World of Web Development</h1>
@@ -19,6 +16,16 @@
     Behind every successful project is a collection of powerful tools, My technical expertise spans from advanced package management with Node Package Manager to crafting dynamic storage solutions using MongoDB and Firebase. Moreover, I take pride in designing aesthetically appealing and responsive websites, courtesy of front-end frameworks like DaisyUI and Tailwind CSS. Whether it's a sleek corporate website or a creative personal project, my focus is always on pushing the envelope in design and functionality.
   </p>
 </div>
+
+
+<div>
+  <img width="500px" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="codeing gif" align="right" />
+</div>
+  
+</div>
+
+
+
 
 - 🌱 I’m currently learning **Next JS**
 
