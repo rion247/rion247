@@ -7,14 +7,14 @@
   
   <img width="500px" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="codeing gif" align="right" />
 
-<br><br>
+<br>
 - 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT JS, NODE EXPRESS, MONGODB**
 
 - 📫 How to reach me **vivianrionmarandi@gmail.com**
 
-<br><br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vivianrion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivianrion" height="30" width="40" /></a>
